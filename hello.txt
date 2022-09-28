@@ -1,2 +1,6 @@
 Theres nothing at all
+<<<<<<< HEAD
 jiaru
+=======
+hot
+>> hofix
